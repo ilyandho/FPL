@@ -2825,3 +2825,47 @@ var b = [
     "https://sports.williamhill.com/betting/en-gb/football/OB_EV29434062/fulham-vs-wolves",
   ],
 ];
+
+
+var sportingIndex = [
+    {
+        "match": "Arsenal v Wolves",
+        "sell_buy": "1.75 - 1.95"
+    },
+    {
+        "match": "Brentford v Luton",
+        "sell_buy": "1 - 1.2"
+    },
+    {
+        "match": "Burnley v Sheff Utd",
+        "sell_buy": "0.65 - 0.85"
+    },
+    {
+        "match": "Nottingham Forest v Everton",
+        "sell_buy": "0 - 0.2"
+    },
+    {
+        "match": "Newcastle v Man Utd",
+        "sell_buy": "0.35 - 0.55"
+    },
+    {
+        "match": "Bournemouth v Aston Villa",
+        "sell_buy": "0.3 - 0.5"
+    },
+    {
+        "match": "Chelsea v Brighton",
+        "sell_buy": "0.7 - 0.9"
+    },
+    {
+        "match": "Liverpool v Fulham",
+        "sell_buy": "1.75 - 1.95"
+    },
+    {
+        "match": "West Ham v Crystal Palace",
+        "sell_buy": "0.35 - 0.55"
+    },
+    {
+        "match": "Man City v Tottenham",
+        "sell_buy": "1.8 - 2"
+    }
+]
